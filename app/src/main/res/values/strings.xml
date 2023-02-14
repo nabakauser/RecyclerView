@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecyclerViewActivity</string>
+    <string name="rm">rm</string>
+    <string name="rmemail">rm@gmail.com</string>
+    <string name="jin">j</string>
+    <string name="jinemail">sj@gmail.com</string>
+    <string name="yg">yg</string>
+    <string name="ygemail">yg@gmail.com</string>
+    <string name="jh">jh</string>
+    <string name="jhemail">jh@gmail.com</string>
+    <string name="pjm">pjm</string>
+    <string name="pjmemail">pjm@gmail.com</string>
+    <string name="kth">kth</string>
+    <string name="kthemail">kth@gmail.com</string>
+    <string name="jjk">jjk</string>
+    <string name="jjkemail">jjk@gmail.com</string>
+</resources>
